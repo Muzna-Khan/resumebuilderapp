@@ -2,7 +2,8 @@
 
 Resune Builder Flutter project.
 
-<img width="471" alt="image" src="https://github.com/user-attachments/assets/dfebd061-bdfd-4172-8e5e-ec08aaef8f15" />
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/1d411cd1-75c8-4dc1-9d75-fe979ed39e56" />
+
 
 
 ## Getting Started
