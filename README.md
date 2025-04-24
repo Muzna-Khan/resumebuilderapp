@@ -1,6 +1,9 @@
 # resumebuilderapp
 
-A new Flutter project.
+Resune Builder Flutter project.
+
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/dfebd061-bdfd-4172-8e5e-ec08aaef8f15" />
+
 
 ## Getting Started
 
